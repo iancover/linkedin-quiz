@@ -1,4 +1,4 @@
-## Bash
+# Bash
 
 #### Q1. Which of the three methods will copy the directory named "photo dir" recursively from the user's home directory to /backups?
 
