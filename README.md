@@ -26,13 +26,4 @@ Playground before taking quiz
 | [JSON](json/json-quiz.md)                                                             | 87        | 86      |
 | [jQuery](jquery/jquery-quiz.md)                                                       | 77        | 77      |
 | [OOP](oop/object-oriented-programming-quiz.md)                                        | 82        | 82      |
-| [XML](xml/xml-quiz.md)                                                                | 43        | 42      | 
-
-| Other  | Questions | Answers |
-| ----- | ----- | ----- | 
-| [GCP](google-cloud-platform/gcp-quiz.md)                      | 52        | 50      | 
-| [Photoshop](adobe-photoshop/adobe-photoshop-quiz.md)                                  | 57        | 57      |
-| [Agile](agile-methodologies/agile-methodologies-quiz.md)                              | 94        | 90      |   
-| [SEO](seo/search-engine-optimization-quiz.md)                                         | 62        | 62      |                 
-| [WordPress](wordpress/wordpress-quiz.md)                                              | 80        | 73      |
                               
