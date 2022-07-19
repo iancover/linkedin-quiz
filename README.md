@@ -1,7 +1,6 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/NKCyjjw3MW?theme=light)](https://discord.gg/NKCyjjw3MW)
 
-Playground before taking quiz
-   > https://linkedin-faq.github.io/md2practice/
+Practice before taking quiz: [playground](https://linkedin-faq.github.io/md2practice/)
 
 ### Table of Contents
 
