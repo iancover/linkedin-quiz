@@ -1,4 +1,4 @@
-## jQuery
+# jQuery
 
 #### Q1. What is the difference between these two snippets?
 
