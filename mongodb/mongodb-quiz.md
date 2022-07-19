@@ -1,4 +1,4 @@
-## MongoDB
+# MongoDB
 
 #### Q1. Which command adds members to the replica set from MongoDB shell?
 
