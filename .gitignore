@@ -1,8 +1,0 @@
-.idea
-.DS_Store
-*.bak
-node_modules
-.vscode
-package-lock.json
-yarn.lock
-out
